@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { projectId, publicAnonKey } from '/utils/supabase/info';
+import { projectId, publicAnonKey } from "@/utils/supabase/info";
 import { Shield, UserPlus, UserCheck, RefreshCw, Lock } from 'lucide-react';
 import { motion } from 'motion/react';
 
