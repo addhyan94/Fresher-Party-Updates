@@ -157,7 +157,7 @@ export function AdminPanel() {
           </form>
 
           <div className="mt-6 text-center text-gray-500 text-sm">
-            <p>Password: opencrd1</p>
+            <p>Password: Contact admin privately</p>
           </div>
         </motion.div>
       </div>
