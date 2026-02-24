@@ -186,7 +186,7 @@ export function InvitationPage() {
 
       {/* Audio Element */}
       <audio ref={audioRef} loop>
-        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" />
+        <source src="bgc music card.mp3" type="audio/mpeg" />
       </audio>
 
       <div className="relative z-10">

@@ -1,4 +1,4 @@
-# 🎉 FRESHERS PARTY 2026 - Quick Start
+# 🎉 FRESHERS & FAREWELL PARTY 2026 - Quick Start
 
 ## 🚀 Your Event Is Ready!
 
