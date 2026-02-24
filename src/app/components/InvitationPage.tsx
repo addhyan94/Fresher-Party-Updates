@@ -213,7 +213,7 @@ export function InvitationPage() {
                     <PartyPopper className="w-20 h-20 text-pink-400 mx-auto drop-shadow-[0_0_25px_rgba(236,72,153,0.8)]" />
                   </motion.div>
                   <h1 className="text-5xl md:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-cyan-400 mb-3 drop-shadow-2xl">
-                    FRESHERS PARTY
+                    FRESHER's & FAREWELL's PARTY
                   </h1>
                   <p className="text-2xl font-bold text-yellow-300 mb-2">2026</p>
                   <p className="text-pink-300 text-lg font-semibold">🎊 The Ultimate Welcome Bash 🎊</p>
@@ -249,7 +249,7 @@ export function InvitationPage() {
                     href="/admin" 
                     className="text-purple-400/40 text-sm hover:text-purple-300/60 transition-colors"
                   >
-                    Admin Access
+                   ~ Contact Technical Team ~
                   </a>
                 </div>
               </div>
@@ -329,7 +329,7 @@ export function InvitationPage() {
                   <div className="flex items-center justify-center gap-4 mb-8">
                     <Rocket className="w-10 h-10 text-yellow-400 animate-bounce" />
                     <h2 className="text-3xl md:text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-pink-400 to-purple-400">
-                      {eventStarted ? '🎉 PARTY TIME! LET\'S GO! 🎉' : '⏰ COUNTDOWN TO MADNESS'}
+                      {eventStarted ? '🎉 PARTY TIME! LET\'S GO! 🎉' : '⏰ COUNTDOWN TO BEGINS..'}
                     </h2>
                     <Star className="w-10 h-10 text-cyan-400 animate-spin" style={{ animationDuration: '3s' }} />
                   </div>
@@ -389,7 +389,7 @@ export function InvitationPage() {
                     transition={{ delay: 0.4 }}
                     className="text-6xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-cyan-400 mb-6 drop-shadow-2xl"
                   >
-                    WELCOME FRESHER !
+                    WELCOME JUNIORS & SENIORS !
                   </motion.h1>
 
                   <motion.p
@@ -442,7 +442,7 @@ export function InvitationPage() {
                     className="mt-14 bg-gradient-to-r from-yellow-400/20 via-pink-400/20 to-purple-400/20 backdrop-blur-sm p-8 rounded-3xl border-2 border-yellow-400/50"
                   >
                     <p className="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 to-pink-400 mb-4">
-                      🎓 CONGRATULATIONS! 🎓
+                      🎓 CONGRATULATIONS STUDENTS! 🎓
                     </p>
                     <p className="text-2xl text-cyan-300 font-bold">
                       You're officially part of the COOLEST batch! 
