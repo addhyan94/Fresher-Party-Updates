@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { projectId, publicAnonKey } from '/utils/supabase/info';
+import { projectId, publicAnonKey } from '@/utils/supabase/info';
 import { PartyPopper, Sparkles, Music, Calendar, Clock, Star, Zap, Gift, Rocket } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
@@ -389,7 +389,7 @@ export function InvitationPage() {
                     transition={{ delay: 0.4 }}
                     className="text-6xl md:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-cyan-400 mb-6 drop-shadow-2xl"
                   >
-                    WELCOME FRESHER!
+                    WELCOME FRESHER !
                   </motion.h1>
 
                   <motion.p
@@ -413,10 +413,10 @@ export function InvitationPage() {
                       <Gift className="w-10 h-10 text-pink-400" />
                     </div>
                     <p className="text-2xl text-white/95 leading-relaxed font-semibold mb-4">
-                      Get ready for the most EPIC night of your college life! 
+                      Get ready for the most EPIC Day of your college life! 
                     </p>
                     <p className="text-xl text-purple-200/90 leading-relaxed">
-                      Music, dancing, new friends, crazy fun, and unforgettable moments await you! 
+                      Music, dancing, new friends, crazy fun, and unforgettable moments wait you! 
                       This is where your college journey truly begins! 🚀✨
                     </p>
                   </motion.div>
@@ -507,10 +507,10 @@ export function InvitationPage() {
                   transition={{ delay: 2 }}
                 >
                   <p className="text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-cyan-400 mb-2">
-                    FRESHERS 2026 🎉
+                    FRESHERS & FAREWELL PARTY 2026 🎉
                   </p>
                   <p className="text-purple-300/80 text-sm">
-                    © 2026 • An Unforgettable College Experience Awaits!
+                    © 2026 • An Unforgettable College Experience Awaits! 
                   </p>
                   <div className="flex justify-center gap-4 mt-4">
                     <Zap className="w-5 h-5 text-yellow-400" />
