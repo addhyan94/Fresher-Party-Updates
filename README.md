@@ -93,23 +93,6 @@ src/
 
 ---
 
-## 🔐 Supabase Configuration
-
-File Location:
-
-```
-src/utils/supabase/info.ts
-```
-
-Example:
-
-```ts
-export const projectId = "your-project-id";
-export const publicAnonKey = "your-anon-key";
-```
-
----
-
 ## ⚙️ Local Development Setup
 
 ```bash
