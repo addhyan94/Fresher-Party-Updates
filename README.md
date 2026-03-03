@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 🎭 FRESHER PARTY DIGITAL INVITATION SYSTEM
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&color=D4AF37&center=true&vCenter=true&width=900&lines=Premium+Black+%26+Gold+Invitation+System;Built+With+React+%2B+Supabase;Real-Time+Guest+Approval;Live+On+GitHub+Pages" />
